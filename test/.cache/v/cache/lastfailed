@@ -1,0 +1,10 @@
+{
+  "tst.py::test_check_price_cd": true,
+  "tst.py::test_check_price_cd[browser]": true,
+  "tst.py::test_corel_draw_purchase[firefox]": true,
+  "tst.py::test_num_of_hp_products": true,
+  "tst.py::test_num_of_hp_products[browser]": true,
+  "tst.py::test_num_of_hp_products[firefox]": true,
+  "tst.py::test_product_page_fields[chrome]": true,
+  "tst.py::test_test_add_group": true
+}
