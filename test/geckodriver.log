@@ -1,0 +1,1698 @@
+1514204667669	geckodriver	INFO	geckodriver 0.19.1
+1514204667672	geckodriver	INFO	Listening on 127.0.0.1:35711
+1514204668815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kCTPtx12NSLj"
+1514204669527	Marionette	INFO	Enabled via --marionette
+1514204671831	Marionette	INFO	Listening on port 45953
+1514204671934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514204672025	Marionette	DEBUG	Register listener.js for window 2147483649
+1514204672069	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514204672485	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514204672486	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514204673784	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514204674244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514204674835	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514204674837	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514204674995	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514204675083	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514204675104	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514204675416	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514204675421	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514204675705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514204675705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514204675705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514204675706	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514204675706	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514204675802	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/login/"
+1514204676132	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514204676205	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/login/"
+1514204676609	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1514204676620	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1514204676620	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514204676984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514204677105	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/login/"
+1514204678287	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/login/"
+1514204678289	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/login/"
+1514204678879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1514204678879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514204678880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1514204678881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1514204678998	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/account/"
+1514204679386	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1514204679513	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/account/"
+1514204680425	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/account/"
+1514204680798	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/account/"
+1514204680800	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/account/"
+1514204681268	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483707"
+1514204681270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1514204681270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1514204681270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1514204681472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/graphic-design-software/"
+1514204682236	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1514204682458	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/graphic-design-software/"
+[Child 21584, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 21584, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x80003,name=PBackgroundIDBDatabase::Msg_Close) Channel error: cannot send/recv
+
+[Child 21584, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514204834396	geckodriver	INFO	geckodriver 0.19.1
+1514204834399	geckodriver	INFO	Listening on 127.0.0.1:50963
+1514204835548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.B2MXnONNzlXp"
+1514204836268	Marionette	INFO	Enabled via --marionette
+1514204838571	Marionette	INFO	Listening on port 35499
+1514204838679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514204838770	Marionette	DEBUG	Register listener.js for window 2147483649
+1514204838823	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514204839228	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514204839228	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514204840545	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514204841001	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1514204841345	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1514204841345	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1514204841513	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514204841879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514204841885	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1514204841915	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514204841966	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514204842251	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514204842257	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514204842583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514204842583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514204842583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514204842583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514204842584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514204842658	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/login/"
+1514204842982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514204843045	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/login/"
+1514204843411	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1514204843413	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514204843768	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514204843880	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/login/"
+1514204845065	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/login/"
+1514204845072	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/login/"
+1514204845581	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1514204845582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1514204845582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1514204845582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1514204845731	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/account/"
+1514204846479	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1514204846536	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/account/"
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 276"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:276:5
+reply@chrome://marionette/content/proxy.js:256:7
+sendToServer@chrome://marionette/content/listener.js:734:3
+sendError@chrome://marionette/content/listener.js:768:3
+dispatch/</<@chrome://marionette/content/listener.js:532:40
+
+1514205052022	geckodriver	INFO	geckodriver 0.19.1
+1514205052025	geckodriver	INFO	Listening on 127.0.0.1:60661
+1514205053172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DbauA35OhEWf"
+1514205053913	Marionette	INFO	Enabled via --marionette
+1514205056243	Marionette	INFO	Listening on port 40803
+1514205056346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514205056445	Marionette	DEBUG	Register listener.js for window 2147483649
+1514205056492	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514205056903	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514205056903	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514205058240	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514205058726	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514205058974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514205058974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514205059262	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514205059619	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514205059621	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514205059657	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514205059988	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514205059994	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514205060490	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514205060490	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1514205060491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514205060491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514205060492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1514205060564	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/login/"
+1514205060860	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1514205060950	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/login/"
+1514205061326	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1514205061328	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1514205061328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514205061685	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514205061787	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/login/"
+1514205062956	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/login/"
+1514205062959	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/login/"
+1514205063406	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1514205063406	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1514205063407	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1514205063407	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1514205063491	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/account/"
+1514205064126	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1514205064188	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/account/"
+[Child 22249, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22249, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22249, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514205298141	geckodriver	INFO	geckodriver 0.19.1
+1514205298144	geckodriver	INFO	Listening on 127.0.0.1:39207
+1514205299300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2oXbvjZ4XLuf"
+1514205300040	Marionette	INFO	Enabled via --marionette
+1514205302604	Marionette	INFO	Listening on port 45755
+1514205302718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514205302807	Marionette	DEBUG	Register listener.js for window 2147483649
+1514205302858	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514205303271	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514205303271	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514205304561	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514205305044	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514205305527	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514205305529	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514205305680	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514205305840	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+[Child 22530, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514205460963	geckodriver	INFO	geckodriver 0.19.1
+1514205460968	geckodriver	INFO	Listening on 127.0.0.1:51601
+1514205462126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.O2T1UsrqCyNb"
+1514205462841	Marionette	INFO	Enabled via --marionette
+1514205465231	Marionette	INFO	Listening on port 37303
+1514205465249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514205465340	Marionette	DEBUG	Register listener.js for window 2147483649
+1514205465455	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514205465867	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514205465868	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514205467209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514205467684	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514205468211	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514205468213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514205468274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514205473175	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+[Child 22743, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22743, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514205545818	geckodriver	INFO	geckodriver 0.19.1
+1514205545823	geckodriver	INFO	Listening on 127.0.0.1:57925
+1514205546949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.p9aMAXrqCmXy"
+1514205547658	Marionette	INFO	Enabled via --marionette
+1514205550158	Marionette	INFO	Listening on port 39711
+1514205550173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514205550264	Marionette	DEBUG	Register listener.js for window 2147483649
+1514205550312	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514205550729	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514205550730	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514205552071	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514205552625	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514205553223	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514205553227	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514205553491	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514205557595	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+[Child 23642, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23642, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514205684594	geckodriver	INFO	geckodriver 0.19.1
+1514205684599	geckodriver	INFO	Listening on 127.0.0.1:48245
+1514205685773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.L3DVcxEX94uN"
+1514205686492	Marionette	INFO	Enabled via --marionette
+1514205688774	Marionette	INFO	Listening on port 33389
+1514205688874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514205688970	Marionette	DEBUG	Register listener.js for window 2147483649
+1514205689012	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514205689442	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514205689443	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514205690727	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514205691218	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514205691697	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514205691699	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514205696503	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+[Child 23866, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23866, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514205889109	geckodriver	INFO	geckodriver 0.19.1
+1514205889112	geckodriver	INFO	Listening on 127.0.0.1:51423
+1514205890258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SakIdDnubNQ6"
+1514205890991	Marionette	INFO	Enabled via --marionette
+1514205893412	Marionette	INFO	Listening on port 44017
+1514205893477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514205893575	Marionette	DEBUG	Register listener.js for window 2147483649
+1514205893625	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514205894025	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514205894026	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514205895385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514205895853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514205896421	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1514205896422	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1514205896569	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+[Child 24112, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24112, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24112, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514206166018	geckodriver	INFO	geckodriver 0.19.1
+1514206166022	geckodriver	INFO	Listening on 127.0.0.1:45057
+1514206167164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WSTi3vistCbt"
+1514206167878	Marionette	INFO	Enabled via --marionette
+1514206170076	Marionette	INFO	Listening on port 42257
+1514206170103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514206170187	Marionette	DEBUG	Register listener.js for window 2147483649
+1514206170270	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514206170696	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514206170696	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514206172101	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514206172598	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514206173159	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514206173162	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514206173321	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+[Child 24363, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24363, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514206552273	geckodriver	INFO	geckodriver 0.19.1
+1514206552276	geckodriver	INFO	Listening on 127.0.0.1:33501
+1514206553409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.n5FU72nTZpQN"
+1514206554115	Marionette	INFO	Enabled via --marionette
+1514206556470	Marionette	INFO	Listening on port 39947
+1514206556622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514206556727	Marionette	DEBUG	Register listener.js for window 2147483649
+1514206556776	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514206557209	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514206557209	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514206558847	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514206559290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514206559807	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514206559810	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514206560073	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514206596989	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514206611938	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514206611938	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514206611939	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514206611939	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514206611940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1514206621152	geckodriver	INFO	geckodriver 0.19.1
+1514206621155	geckodriver	INFO	Listening on 127.0.0.1:59301
+1514206622300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YJi7FqalM5Ev"
+1514206623018	Marionette	INFO	Enabled via --marionette
+1514206625265	Marionette	INFO	Listening on port 36775
+1514206625330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514206625412	Marionette	DEBUG	Register listener.js for window 2147483649
+1514206625520	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514206625928	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514206625928	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514206627265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514206627742	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514206628261	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514206628278	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514206628413	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514206629252	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514206629613	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514206629616	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514206630096	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514206630097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514206630098	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514206630099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514206630099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514206630100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1514206630100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1514206630102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1514206630381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514206631003	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1514206631202	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 24862, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24862, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24862, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514206931186	geckodriver	INFO	geckodriver 0.19.1
+1514206931192	geckodriver	INFO	Listening on 127.0.0.1:49775
+1514206932327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eSEy43jiJM1P"
+1514206933030	Marionette	INFO	Enabled via --marionette
+1514206935382	Marionette	INFO	Listening on port 35243
+1514206935502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514206935590	Marionette	DEBUG	Register listener.js for window 2147483649
+1514206935645	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514206936057	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514206936057	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514206937542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514206937844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514206938603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514206938605	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514206938763	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514206939683	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514206940116	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514206940126	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514206940736	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514206940737	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514206940737	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514206940738	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514206940738	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514206940739	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514206940739	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514206940740	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514206941004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514206941702	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1514206942077	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1514206942083	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1514206942210	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 25219, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25219, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 25219, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514207242019	geckodriver	INFO	geckodriver 0.19.1
+1514207242022	geckodriver	INFO	Listening on 127.0.0.1:36623
+1514207243180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wgS6zo0hbWkh"
+1514207243811	Marionette	INFO	Enabled via --marionette
+1514207246014	Marionette	INFO	Listening on port 40841
+1514207246092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514207246158	Marionette	DEBUG	Register listener.js for window 2147483649
+1514207246209	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514207246657	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514207246658	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514207247778	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514207248025	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514207248614	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514207248617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514207248911	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514207249581	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514207250563	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514207250906	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514207250908	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514207251410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514207251410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514207251410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1514207251410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514207251411	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514207251411	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514207251412	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514207251412	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514207251641	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514207252064	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514207252368	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 25592, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514208329759	geckodriver	INFO	geckodriver 0.19.1
+1514208329763	geckodriver	INFO	Listening on 127.0.0.1:49443
+1514208330913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tDEL2qiPSCpb"
+1514208331518	Marionette	INFO	Enabled via --marionette
+1514208333598	Marionette	INFO	Listening on port 39747
+1514208333630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514208333696	Marionette	DEBUG	Register listener.js for window 2147483649
+1514208333750	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514208334163	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514208334164	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514208335353	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514208335573	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514208336017	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514208337132	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514208337503	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514208337506	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514208337941	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514208337942	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514208337942	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514208337943	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514208337943	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514208337944	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514208337953	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514208337954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514208338176	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514208338588	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514208338871	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 26854, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26854, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26854, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514222129260	geckodriver	INFO	geckodriver 0.19.1
+1514222129287	geckodriver	INFO	Listening on 127.0.0.1:38225
+1514222130436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z1waSCIaix2l"
+1514222131368	Marionette	INFO	Enabled via --marionette
+1514222133667	Marionette	INFO	Listening on port 42085
+1514222133789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514222133878	Marionette	DEBUG	Register listener.js for window 2147483649
+1514222133920	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514222134329	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514222134329	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514222135651	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514222136081	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514222136538	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514222136539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514222136828	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514222137836	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514222138126	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514222138130	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514222138585	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514222138594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514222138594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514222138596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514222138597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514222138597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514222138598	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514222138599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514222138853	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514222139358	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514222139798	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1514222139801	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1514222140009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1514222144457	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 7877, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7877, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7877, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470016,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x720003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x470006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+1514222249126	geckodriver	INFO	geckodriver 0.19.1
+1514222249129	geckodriver	INFO	Listening on 127.0.0.1:49999
+1514222250279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GNXisHen0Zqg"
+1514222250987	Marionette	INFO	Enabled via --marionette
+1514222253346	Marionette	INFO	Listening on port 46495
+1514222253399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514222253491	Marionette	DEBUG	Register listener.js for window 2147483649
+1514222253615	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514222254035	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514222254035	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514222255699	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514222255930	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514222256447	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514222260752	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514222261849	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514222262150	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514222262151	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514222262431	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1514222262432	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514222262432	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1514222262433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514222262433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514222262433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514222262434	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514222262980	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514222263475	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1514222264044	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1514222264047	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1514222264170	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 8099, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8099, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8099, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514222553483	geckodriver	INFO	geckodriver 0.19.1
+1514222553488	geckodriver	INFO	Listening on 127.0.0.1:51781
+1514222554614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.n4cFecbCzD6f"
+1514222555282	Marionette	INFO	Enabled via --marionette
+1514222557585	Marionette	INFO	Listening on port 42943
+1514222557633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514222557719	Marionette	DEBUG	Register listener.js for window 2147483649
+1514222557779	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514222558187	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514222558187	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514222560131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514222560513	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514222560884	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514222561983	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514222562275	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514222562277	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514222562759	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1514222562759	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1514222562760	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514222562760	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514222562760	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514222562760	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514222562761	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514222562761	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514222563010	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514222563581	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514222564249	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1514222564250	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1514222564350	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 8392, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8392, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8392, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8392, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8392, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8392, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8392, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8392, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8392, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8392, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8392, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8392, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8392, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514222699789	geckodriver	INFO	geckodriver 0.19.1
+1514222699792	geckodriver	INFO	Listening on 127.0.0.1:42365
+1514222700920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pJFMMsTIJV83"
+1514222701577	Marionette	INFO	Enabled via --marionette
+1514222703807	Marionette	INFO	Listening on port 33665
+1514222703837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514222703933	Marionette	DEBUG	Register listener.js for window 2147483649
+1514222704004	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514222704421	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514222704422	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514222706519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514222706881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514222707392	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514222707394	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514222707531	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514222708513	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514222708811	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514222708814	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514222709149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514222709150	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514222709150	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514222709151	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514222709151	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514222709152	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514222709152	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514222709152	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514222709649	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514222710200	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514222710497	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 8600, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8600, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8600, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514222781521	geckodriver	INFO	geckodriver 0.19.1
+1514222781525	geckodriver	INFO	Listening on 127.0.0.1:42611
+1514222782659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6r2xM9JppUSj"
+1514222783338	Marionette	INFO	Enabled via --marionette
+1514222785623	Marionette	INFO	Listening on port 38637
+1514222785678	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514222785762	Marionette	DEBUG	Register listener.js for window 2147483649
+1514222785822	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514222786239	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514222786239	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514222787454	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514222787907	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514222788484	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514222788485	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514222788614	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514222789643	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514222789991	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514222789994	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514222790467	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514222790467	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514222790468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514222790468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514222790468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514222790469	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514222790470	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514222790470	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514222790720	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514222791323	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1514222791506	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 8790, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8790, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 8790, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514224605057	geckodriver	INFO	geckodriver 0.19.1
+1514224605060	geckodriver	INFO	Listening on 127.0.0.1:33083
+1514224606215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0bh9kHA4nVNW"
+1514224606927	Marionette	INFO	Enabled via --marionette
+1514224609099	Marionette	INFO	Listening on port 45663
+1514224609129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514224609225	Marionette	DEBUG	Register listener.js for window 2147483649
+1514224609279	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514224609699	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514224609700	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514224611027	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514224611511	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514224611987	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514224611990	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514224612048	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514224616980	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514224617995	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514224618332	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514224618335	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514224618859	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514224618859	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514224618859	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1514224618860	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514224618860	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514224618861	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514224618861	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514224618862	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514224619159	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514224619688	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514224620120	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1514224620123	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1514224620273	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 9990, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9990, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9990, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514224841847	geckodriver	INFO	geckodriver 0.19.1
+1514224841850	geckodriver	INFO	Listening on 127.0.0.1:38105
+1514224842981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UMbxLFokgxvX"
+1514224843650	Marionette	INFO	Enabled via --marionette
+1514224845796	Marionette	INFO	Listening on port 38711
+1514224845916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514224846004	Marionette	DEBUG	Register listener.js for window 2147483649
+1514224846047	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514224846464	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514224846465	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514224847899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514224848342	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514224848781	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514224848784	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514224849090	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514224850117	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514224850469	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514224850472	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514224851022	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514224851023	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514224851023	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514224851025	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514224851025	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514224851026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514224851026	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514224851027	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514224851277	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514224851782	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514224852249	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1514224852252	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1514224852385	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 10235, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10235, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10235, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514225010920	geckodriver	INFO	geckodriver 0.19.1
+1514225010924	geckodriver	INFO	Listening on 127.0.0.1:41379
+1514225012050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jRXrdcN880Td"
+1514225012725	Marionette	INFO	Enabled via --marionette
+1514225014774	Marionette	INFO	Listening on port 38735
+1514225014874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514225014975	Marionette	DEBUG	Register listener.js for window 2147483649
+1514225015040	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514225015445	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514225015445	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514225016804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514225017077	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514225017688	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514225017689	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514225017826	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514225018837	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514225019175	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514225019178	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514225019640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514225019640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514225019640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514225019642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514225019642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514225019642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514225019643	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514225019644	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514225019908	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514225020403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514225020817	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1514225020819	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1514225020946	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 10463, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10463, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10463, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514225154150	geckodriver	INFO	geckodriver 0.19.1
+1514225154153	geckodriver	INFO	Listening on 127.0.0.1:44557
+1514225155285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MtCEGukjmEOn"
+1514225155953	Marionette	INFO	Enabled via --marionette
+1514225158089	Marionette	INFO	Listening on port 41083
+1514225158103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514225158181	Marionette	DEBUG	Register listener.js for window 2147483649
+1514225158224	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514225158638	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514225158638	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514225159871	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514225160310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514225160805	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514225160807	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514225160865	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514225161093	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514225161938	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514225162292	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514225162295	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514225162761	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514225162762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514225162762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1514225162763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514225162763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514225163008	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514225163569	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514225163939	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1514225163941	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1514225164057	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 10669, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10669, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10669, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514225223087	geckodriver	INFO	geckodriver 0.19.1
+1514225223090	geckodriver	INFO	Listening on 127.0.0.1:54919
+1514225224222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HmBx3avaTtDt"
+1514225224899	Marionette	INFO	Enabled via --marionette
+1514225227227	Marionette	INFO	Listening on port 37453
+1514225227250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514225227335	Marionette	DEBUG	Register listener.js for window 2147483649
+1514225227374	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514225227810	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514225227810	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514225229223	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514225229671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1514225230001	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1514225230001	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1514225230118	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514225231360	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514225231650	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514225231653	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514225232182	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514225232182	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514225232182	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514225232183	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514225232183	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514225232183	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1514225232183	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1514225232184	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1514225232448	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514225233006	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1514225233241	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514225235298	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 10830, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10830, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10830, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514226448464	geckodriver	INFO	geckodriver 0.19.1
+1514226448468	geckodriver	INFO	Listening on 127.0.0.1:54975
+1514226449618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iTJXmhC8bFf2"
+1514226450352	Marionette	INFO	Enabled via --marionette
+1514226452672	Marionette	INFO	Listening on port 41995
+1514226452813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514226452916	Marionette	DEBUG	Register listener.js for window 2147483649
+1514226452999	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514226453408	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514226453408	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514226459594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514226460327	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514226460708	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514226460710	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514226460850	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514226461910	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514226462240	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514226462242	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514226462768	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514226462769	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514226462769	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514226462770	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514226462770	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514226463030	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514226463417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514226463947	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514226465756	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 12132, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12132, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12132, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x80003,name=PBackgroundIDBDatabase::Msg_Close) Channel error: cannot send/recv
+
+1514226561750	geckodriver	INFO	geckodriver 0.19.1
+1514226561754	geckodriver	INFO	Listening on 127.0.0.1:55555
+1514226562900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.R2fQPImhReeK"
+1514226563620	Marionette	INFO	Enabled via --marionette
+1514226565995	Marionette	INFO	Listening on port 45607
+1514226566022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514226566122	Marionette	DEBUG	Register listener.js for window 2147483649
+1514226566183	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514226566610	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514226566611	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514226567887	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514226568235	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514226568875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514226568879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514226568949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514226569341	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514226570383	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514226570680	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514226570682	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514226571205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514226571206	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514226571207	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1514226571208	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514226571208	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514226571208	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514226571209	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514226571484	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514226572062	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1514226572534	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1514226572536	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1514226572684	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514226574504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514226574647	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514226574999	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514226575000	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514226575538	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1514226575539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1514226575550	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1514226575550	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1514226575551	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514226575551	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1514226575552	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514226575552	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+1514226575552	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1514226575553	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1514226575553	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1514226575898	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514226576300	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1514226576516	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514226576669	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514226577004	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514226577013	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514226577029	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483728"
+1514226577031	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1514226577231	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1514226577232	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1514226577232	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1514226577232	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1514226577451	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/login/"
+1514226577943	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483736"
+1514226578268	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483742"
+1514226578280	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483746"
+1514226578302	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/login/"
+1514226578501	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483752"
+1514226578589	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514226578913	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514226579031	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/login/"
+1514226580226	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/login/"
+1514226580229	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/login/"
+1514226580651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483748"
+1514226580651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483744"
+1514226580652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483737"
+1514226580652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+1514226580754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/account/"
+1514226581119	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483756"
+1514226581453	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483762"
+1514226581455	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483766"
+1514226581516	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/account/"
+[Child 12431, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12431, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12431, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514226743318	geckodriver	INFO	geckodriver 0.19.1
+1514226743321	geckodriver	INFO	Listening on 127.0.0.1:33853
+1514226744469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PaAf685J4HWV"
+1514226745206	Marionette	INFO	Enabled via --marionette
+1514226747493	Marionette	INFO	Listening on port 33525
+1514226747665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514226747761	Marionette	DEBUG	Register listener.js for window 2147483649
+1514226747809	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514226748244	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514226748245	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514226749645	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514226750093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514226750698	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514226750700	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514226750848	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514226751701	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514226752093	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514226752096	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514226752650	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514226752651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514226752651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514226752652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514226752652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514226752653	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514226752653	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514226752653	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514226752909	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514226753437	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514226753817	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514226755883	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 12663, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12663, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12663, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514226907600	geckodriver	INFO	geckodriver 0.19.1
+1514226907604	geckodriver	INFO	Listening on 127.0.0.1:53685
+1514226908755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mZfnY6HayVoA"
+1514226909487	Marionette	INFO	Enabled via --marionette
+1514226911719	Marionette	INFO	Listening on port 33453
+1514226911826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514226911923	Marionette	DEBUG	Register listener.js for window 2147483649
+1514226911983	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514226912433	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514226912433	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514226913778	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514226914039	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514226914596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514226915052	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1514226915054	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1514226919486	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514226920381	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514226920675	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514226920677	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514226921190	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1514226921191	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1514226921198	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1514226921198	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514226921198	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514226921199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514226921199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514226921485	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514226922035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1514226922353	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514226924463	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514226924713	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 12870, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12870, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514227847255	geckodriver	INFO	geckodriver 0.19.1
+1514227847258	geckodriver	INFO	Listening on 127.0.0.1:52545
+1514227848407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fXDOV0dgIj1O"
+1514227849158	Marionette	INFO	Enabled via --marionette
+1514227851415	Marionette	INFO	Listening on port 39591
+1514227851428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514227851529	Marionette	DEBUG	Register listener.js for window 2147483649
+1514227851658	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514227852075	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514227852075	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514227853415	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514227853922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514227854564	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514227854566	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514227854709	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514227855587	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514227855878	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514227855883	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514227856400	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514227856409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514227856410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514227856411	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514227856411	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514227856414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514227856415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514227856415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514227856689	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514227857264	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514227857766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1514227857768	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1514227857907	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 14456, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14456, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14456, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514228151110	geckodriver	INFO	geckodriver 0.19.1
+1514228151113	geckodriver	INFO	Listening on 127.0.0.1:60691
+1514228152260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aQBlWhhsAlB8"
+1514228152876	Marionette	INFO	Enabled via --marionette
+1514228155013	Marionette	INFO	Listening on port 34675
+1514228155172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514228155253	Marionette	DEBUG	Register listener.js for window 2147483649
+1514228155295	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514228155705	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514228155705	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514228157018	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514228157312	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514228157837	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514228157837	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514228158094	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1514228158097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1514228158124	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1514228158404	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514228159253	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514228159542	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514228159545	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514228159972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1514228159973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1514228159973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514228159974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514228159974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1514228160219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514228160730	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1514228160953	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 14890, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14890, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 14890, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514228245616	geckodriver	INFO	geckodriver 0.19.1
+1514228245620	geckodriver	INFO	Listening on 127.0.0.1:37403
+1514228246771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.O0LWQ7bTmlzi"
+1514228247412	Marionette	INFO	Enabled via --marionette
+1514228249553	Marionette	INFO	Listening on port 42403
+1514228249677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514228249770	Marionette	DEBUG	Register listener.js for window 2147483649
+1514228249806	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514228250209	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514228250210	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514228251308	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514228251743	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1514228252045	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514228252045	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514228252330	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1514228252333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1514228252460	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514228253341	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514228253630	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514228253633	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514228253930	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1514228253930	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1514228253931	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1514228253931	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514228253932	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1514228253932	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514228253933	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1514228254404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514228254887	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1514228255281	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1514228255283	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1514228255400	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 15061, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 15061, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15061, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15061, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514228449454	geckodriver	INFO	geckodriver 0.19.1
+1514228449458	geckodriver	INFO	Listening on 127.0.0.1:49957
+1514228450622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CPdKflSZPm0t"
+1514228451369	Marionette	INFO	Enabled via --marionette
+1514228453800	Marionette	INFO	Listening on port 34993
+1514228453839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514228453955	Marionette	DEBUG	Register listener.js for window 2147483649
+1514228454077	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514228454498	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514228454498	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514228456003	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514228456449	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514228457050	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514228457051	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514228457201	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514228458486	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514228458862	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514228458869	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514228459410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514228459411	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514228459412	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514228459413	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514228459414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514228459414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514228459414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514228459416	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514228459704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514228460307	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514228460653	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 15352, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15352, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 15352, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514228508655	geckodriver	INFO	geckodriver 0.19.1
+1514228508662	geckodriver	INFO	Listening on 127.0.0.1:42183
+1514228509819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GmGClR3F06T6"
+1514228510566	Marionette	INFO	Enabled via --marionette
+1514228512882	Marionette	INFO	Listening on port 42513
+1514228513018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514228513117	Marionette	DEBUG	Register listener.js for window 2147483649
+1514228513152	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514228513520	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514228513521	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514228514814	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514228515315	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514228515820	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514228515823	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514228515889	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514228516142	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514228517169	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514228517461	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514228517464	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514228518045	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514228518046	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514228518046	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1514228518046	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514228518046	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514228518047	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514228518047	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514228518048	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514228518318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514228519007	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1514228519398	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1514228519400	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1514228519537	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 15523, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 15523, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514229897768	geckodriver	INFO	geckodriver 0.19.1
+1514229897771	geckodriver	INFO	Listening on 127.0.0.1:46465
+1514229898927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DfempPME8ZpJ"
+1514229899690	Marionette	INFO	Enabled via --marionette
+1514229902046	Marionette	INFO	Listening on port 34303
+1514229902198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514229902297	Marionette	DEBUG	Register listener.js for window 2147483649
+1514229902336	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514229902760	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514229902761	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514229904197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514229904694	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514229905311	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514229905313	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514229905380	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514229905648	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514229906673	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514229907026	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514229907030	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514229907575	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514229907575	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514229907576	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1514229907578	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514229907578	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514229907579	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514229907580	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514229907580	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514229907869	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514229908531	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514229908981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1514229908984	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1514229909139	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 16731, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16731, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 16731, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514303075293	geckodriver	INFO	geckodriver 0.19.1
+1514303075331	geckodriver	INFO	Listening on 127.0.0.1:54319
+1514303076580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CBSrW3IN9KGp"
+1514303079012	Marionette	INFO	Enabled via --marionette
+1514303083361	Marionette	INFO	Listening on port 37277
+1514303083563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514303083670	Marionette	DEBUG	Register listener.js for window 2147483649
+1514303083935	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514303084489	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514303084489	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514303085932	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514303086539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514303087078	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514303087081	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514303087202	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514303087394	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514303087482	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514303087786	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514303087793	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514303088123	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514303088123	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514303088124	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1514303088124	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514303088124	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514303088219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/login/"
+1514303088584	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514303088683	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/login/"
+1514303089207	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514303089563	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514303089734	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/login/"
+1514303090978	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/login/"
+1514303090981	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/login/"
+1514303091432	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514303091432	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1514303091433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1514303091434	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1514303091561	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/account/"
+1514303091972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1514303092290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1514303092293	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483705"
+1514303092385	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/account/"
+1514303092461	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/account/"
+1514303092850	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/account/"
+1514303092850	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/account/"
+1514303093373	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483707"
+1514303093373	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1514303093374	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1514303093375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1514303093376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1514303093728	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514303094306	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1514303094532	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514303095982	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514303096304	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514303096309	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514303096849	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483731"
+1514303096852	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1514303096853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1514303096853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1514303096854	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1514303096855	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483735"
+1514303096856	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483740"
+1514303096857	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483737"
+1514303097134	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514303097783	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+1514303098142	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483757"
+1514303098146	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483761"
+1514303098333	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 11462, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 11462, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 11462, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 11462, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514303184202	geckodriver	INFO	geckodriver 0.19.1
+1514303184207	geckodriver	INFO	Listening on 127.0.0.1:40721
+1514303185367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bkqNxhPH5FYx"
+1514303186084	Marionette	INFO	Enabled via --marionette
+1514303188354	Marionette	INFO	Listening on port 41881
+1514303188395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514303188486	Marionette	DEBUG	Register listener.js for window 2147483649
+1514303188551	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514303188980	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514303188980	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514303190348	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514303190838	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514303191464	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514303191467	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514303191632	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514303191725	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514303192026	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514303192030	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514303192402	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514303192403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514303192403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514303192403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514303192403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514303192404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514303192481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/login/"
+1514303192800	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514303192925	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/login/"
+1514303193257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1514303193259	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1514303193307	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1514303193447	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514303193778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514303193894	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/login/"
+1514303195140	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/login/"
+1514303195147	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/login/"
+1514303195619	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1514303195627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514303195627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1514303195628	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1514303195710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/account/"
+1514303196210	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1514303196396	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/account/"
+1514303196454	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/account/"
+1514303196867	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/account/"
+1514303196867	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/account/"
+1514303197495	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1514303197496	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1514303197496	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1514303197904	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514303198443	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1514303198746	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514303200221	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514303200534	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514303200537	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514303201116	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1514303201116	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1514303201117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483715"
+1514303201117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1514303201118	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1514303201118	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1514303201118	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1514303201119	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1514303201405	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514303201946	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483739"
+1514303202294	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 11677, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11677, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 11677, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514303301960	geckodriver	INFO	geckodriver 0.19.1
+1514303301965	geckodriver	INFO	Listening on 127.0.0.1:42401
+1514303303114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NTukbT0YIeve"
+1514303303839	Marionette	INFO	Enabled via --marionette
+1514303306240	Marionette	INFO	Listening on port 44849
+1514303306383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514303306476	Marionette	DEBUG	Register listener.js for window 2147483649
+1514303306547	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514303306965	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514303306965	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514303308352	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514303308899	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514303309412	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514303309418	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514303309590	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514303309745	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514303309839	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514303310133	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514303310139	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514303310464	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514303310464	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514303310464	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1514303310465	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514303310465	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514303310540	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/login/"
+1514303310922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514303311235	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1514303311237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1514303311291	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/login/"
+1514303311429	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1514303311561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514303311892	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514303312007	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/login/"
+1514303313224	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/login/"
+1514303313234	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/login/"
+1514303313721	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514303313722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1514303313722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1514303313722	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1514303313834	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/account/"
+1514303314237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1514303314589	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1514303314599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483705"
+1514303314677	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/account/"
+1514303314762	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/account/"
+1514303315180	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/account/"
+1514303315181	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/account/"
+1514303315717	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483707"
+1514303315718	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1514303315718	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1514303315719	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1514303315719	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1514303316076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514303316563	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1514303317021	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1514303317024	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483725"
+1514303317231	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514303318316	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514303318758	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514303318761	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514303319337	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1514303319338	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1514303319339	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483731"
+1514303319339	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1514303319339	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1514303319340	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483735"
+1514303319340	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483740"
+1514303319341	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483737"
+1514303319708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514303320438	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+1514303320816	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483757"
+1514303320819	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483761"
+1514303320957	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 12050, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12050, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12050, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514303412498	geckodriver	INFO	geckodriver 0.19.1
+1514303412501	geckodriver	INFO	Listening on 127.0.0.1:42877
+1514303413655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DdpiE44yWfeJ"
+1514303414405	Marionette	INFO	Enabled via --marionette
+1514303416619	Marionette	INFO	Listening on port 43255
+1514303416755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514303416870	Marionette	DEBUG	Register listener.js for window 2147483649
+1514303416919	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514303417281	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514303417282	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514303466192	geckodriver	INFO	geckodriver 0.19.1
+1514303466196	geckodriver	INFO	Listening on 127.0.0.1:55573
+1514303467441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Na4AcXVGVlY2"
+1514303468199	Marionette	INFO	Enabled via --marionette
+1514303470891	Marionette	INFO	Listening on port 45039
+1514303470962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514303471046	Marionette	DEBUG	Register listener.js for window 2147483649
+1514303471116	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514303471529	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514303471529	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514303472857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514303473348	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514303473881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514303473884	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514303474048	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514303474148	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514303474447	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514303474452	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514303474750	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514303474750	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514303474751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1514303474751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514303474751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514303474751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514303474826	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/login/"
+1514303475137	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1514303475268	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/login/"
+1514303475635	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1514303475809	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514303476142	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514303476251	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/login/"
+1514303477422	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/login/"
+1514303477430	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/login/"
+1514303477900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1514303477900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514303477901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1514303477901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1514303478023	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/account/"
+1514303478428	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1514303478834	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483705"
+1514303478837	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1514303478908	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/account/"
+1514303478965	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/account/"
+1514303478997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1514303479795	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/account/"
+1514303479795	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/account/"
+1514303480315	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1514303480315	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483707"
+1514303480316	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1514303480317	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1514303480709	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514303481166	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483715"
+1514303481675	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514303482985	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514303483297	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514303483303	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514303483880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1514303483880	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483728"
+1514303483881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1514303483881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1514303483881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1514303483882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483736"
+1514303483882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483741"
+1514303483882	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483738"
+1514303484102	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514303484854	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483748"
+1514303485262	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483757"
+1514303485265	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483761"
+1514303485391	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 12767, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12767, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12767, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514303946931	geckodriver	INFO	geckodriver 0.19.1
+1514303946935	geckodriver	INFO	Listening on 127.0.0.1:55593
+1514303948115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2GKmIm8e90RZ"
+1514303948853	Marionette	INFO	Enabled via --marionette
+1514303951183	Marionette	INFO	Listening on port 35637
+1514303951300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514303951404	Marionette	DEBUG	Register listener.js for window 2147483649
+1514303951474	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514303951887	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514303951887	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514303953425	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514303953894	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514303954233	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514303954635	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514303954637	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1514303954703	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514303955014	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514303955021	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514303955341	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1514303955341	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514303955342	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514303955343	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514303955344	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1514303955422	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/login/"
+1514303955772	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1514303955914	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/login/"
+1514303956070	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514303956197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514303956601	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1514303956603	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1514303956790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514303956898	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/login/"
+1514303958113	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/login/"
+1514303958124	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/login/"
+1514303958572	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1514303958573	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1514303958593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1514303958594	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1514303958725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/account/"
+1514303959134	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1514303959470	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1514303959475	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1514303959557	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/account/"
+1514303959648	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/account/"
+1514303960029	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/account/"
+1514303960029	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/account/"
+1514303960351	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+1514303960351	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1514303960351	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1514303960352	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1514303960352	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1514303961013	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514303961465	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1514303961940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1514303961943	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1514303962154	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514303963125	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514303963438	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514303963443	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514303963997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1514303963998	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1514303963998	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483728"
+1514303963999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483713"
+1514303963999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1514303963999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1514303963999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483737"
+1514303964000	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483734"
+1514303964301	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514303965428	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483742"
+1514303965858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483754"
+1514303965861	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483758"
+1514303966047	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+[Child 13133, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13133, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1514304146054	geckodriver	INFO	geckodriver 0.19.1
+1514304146057	geckodriver	INFO	Listening on 127.0.0.1:53037
+1514304147203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lXM7gM8sGtkg"
+1514304147970	Marionette	INFO	Enabled via --marionette
+1514304150339	Marionette	INFO	Listening on port 45011
+1514304150471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514304150572	Marionette	DEBUG	Register listener.js for window 2147483649
+1514304150634	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514304151029	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514304151029	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514304152495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514304152999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514304153187	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514304153188	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514304153570	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1514304153588	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1514304153634	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1514304154040	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514304154149	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514304154388	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514304154393	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514304154814	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1514304154816	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1514304154817	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1514304154818	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1514304154818	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1514304154968	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/login/"
+1514304155298	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1514304155635	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1514304155636	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1514304155687	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/login/"
+1514304155826	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1514304155958	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514304156291	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514304156448	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/login/"
+1514304157564	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/login/"
+1514304157569	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/login/"
+1514304158136	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1514304158136	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1514304158137	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1514304158138	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1514304158283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/account/"
+1514304158726	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1514304159049	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1514304159054	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483710"
+1514304159138	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/account/"
+1514304159249	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/account/"
+1514304159636	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/account/"
+1514304159637	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/account/"
+1514304160124	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483712"
+1514304160125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1514304160125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1514304160125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1514304160126	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1514304160563	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514304161077	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1514304161599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1514304161602	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483728"
+1514304161768	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+1514304162825	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/"
+1514304163197	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/"
+1514304163200	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/"
+1514304163736	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1514304163737	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1514304163748	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483734"
+1514304163749	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1514304163750	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1514304163751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483740"
+1514304163751	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483745"
+1514304163752	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483742"
+1514304164089	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514304164801	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483752"
+1514304165211	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483762"
+1514304165215	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483766"
+1514304165349	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514304172402	Marionette	DEBUG	Received DOM event "beforeunload" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514304172989	Marionette	DEBUG	Received DOM event "pagehide" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514304172992	Marionette	DEBUG	Received DOM event "unload" for "https://uae.microless.com/product/coreldraw-graphics-suite-x7---1-user/"
+1514304173533	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483768"
+1514304173533	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483764"
+1514304173534	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483770"
+1514304173534	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483759"
+1514304173535	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483748"
+1514304173535	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+1514304173537	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483756"
+1514304173537	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483772"
+1514304173538	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483776"
+1514304173539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483782"
+1514304173547	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483778"
+1514304173990	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uae.microless.com/"
+1514304174439	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483786"
+1514304174855	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483795"
+1514304174859	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483799"
+1514304175015	Marionette	DEBUG	Received DOM event "pageshow" for "https://uae.microless.com/"
+[Child 13699, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13699, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-_ZEv2Z/firefox-57.0.1+linuxmint1+sylvia/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

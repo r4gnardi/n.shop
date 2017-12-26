@@ -1,0 +1,10 @@
+from selene.api import *
+from selene import config
+from selene.browsers import BrowserName
+from selene.support.conditions import *
+
+config.browser_name = "chrome"
+browser.open_url("https://www.google.com.ua")
+x = s('input[value = "Пошук Google"]').should(be.visible).should(be.clickable).get_attribute("aria-label")
+print(x)
+
